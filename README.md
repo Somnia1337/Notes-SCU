@@ -4,7 +4,7 @@ The notes Somnia1337 had taken with Obsidian and Markdown.
 
 ## How to Use
 
-Downloading [Obsidian](obsidian.md)(the markdown editor I've been using) is recommended, you can also open the markdown files with notepad(deprecated, with the effects such as bold, highlight and code blocks not rendered).
+Downloading [Obsidian](https://obsidian.md/)(the markdown editor I've been using) is recommended, you can also open the markdown files with notepad(deprecated, with the effects such as bold, highlight and code blocks not rendered).
 
 ## Common Issues
 
