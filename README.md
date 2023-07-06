@@ -4,9 +4,9 @@ The notes Somnia1337 had taken with Obsidian and Markdown.
 
 ## How to Use
 
-Go to "Releases" and download the latest .zip file, unzip it, and you'll see the .md note files.
+Go to "Releases" and download the latest `.zip` file, unzip it, and you'll see the `.md` note files.
 
-Downloading [Obsidian](https://obsidian.md/)(the markdown editor I've been using) is recommended, you can also open the markdown files with notepad(deprecated, without effect rendering).
+I recommend using [Obsidian](https://obsidian.md/) - the markdown editor I've been using - to view my notes, it has an elegant UI and a fluent editing experience.
 
 ## Common Issues
 
